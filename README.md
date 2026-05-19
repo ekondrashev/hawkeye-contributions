@@ -17,11 +17,11 @@ contract.
 
 ## Contribution activity
 
-![2025 contribution heatmap](./screenshots/2025-contributions.png)
+![2025 contribution heatmap](./screenshots/hawkeye_contributions_2025.png)
 
 *Full-year 2025 — 371 contributions.*
 
-![2026 contribution heatmap (Jan–May)](./screenshots/2026-contributions.png)
+![2026 contribution heatmap (Jan–May)](./screenshots/hawkeye_contributions_2026.png)
 
 *2026 through 2026-05-14 — 242 contributions.*
 

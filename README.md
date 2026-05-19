@@ -9,11 +9,11 @@ described.
 
 ## Where the actual work lives
 
-All my Hawkeye commits, PRs, and reviews are on the customer-provided GitHub
-account: **[github.com/ekcmlatitude](https://github.com/ekcmlatitude)**
-
-That account is the source of truth for activity volume and cadence on this
-contract.
+All commits, PRs, and reviews from this contract were made on my
+customer-provided GitHub account.
+The contribution graph below is from that account. The repositories
+themselves are private (customer-owned), which is why no public repos appear
+on the profile.
 
 ## Contribution activity
 
@@ -30,9 +30,6 @@ contract.
 - Authored 77k+ lines of Go and Python across 210+ merged PRs over 16 months
 - Consistent weekday cadence across the full contract period
 - 2025: 371 contributions · 2026 (Jan – May 14): 242 contributions
-
-Verification via GitHub PR search:
-- `is:pr is:merged author:ekcmlatitude merged:2025-01-01..2026-05-15`
 
 ## What I worked on
 
